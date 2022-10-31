@@ -1,7 +1,8 @@
 {
   "dependencies": {
     "bl": "^6.0.0",
-    "strftime": "^0.10.1"
+    "strftime": "^0.10.1",
+    "through2-map": "^3.0.0"
   },
   "scripts": {
     "start": "node node10.js"
