@@ -1,5 +1,9 @@
 {
   "dependencies": {
-    "bl": "^6.0.0"
+    "bl": "^6.0.0",
+    "strftime": "^0.10.1"
+  },
+  "scripts": {
+    "start": "node node10.js"
   }
 }
